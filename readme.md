@@ -41,3 +41,14 @@ Liste des commandes git
 - les modification de la branche mere sont placer en dessous des modification de la branche courante 
 -les modification de la branche courante  sont placer en dessus des modification de la branche mere 
  
+
+## git reset 
+- permet de supprimer un commit 
+- permet de revenir a un  commit defini par identifiant
+- Attention a utiliser avec precausion
+
+## git diff
+- permet de comparer deux commit
+
+
+ 
