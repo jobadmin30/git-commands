@@ -24,3 +24,11 @@ Permet de pousser les modifications en ligne
 
 ## git log --oneline
 - affiche l’historique des commits en version courte
+
+## git branch
+- permet de cree une branch
+
+## git checkout
+- permet de passer d'une branche a une autre
+- de switcher entre les branche
+- avec l'option -b vas cree la branche si elle n'existe pas 
