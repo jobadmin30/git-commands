@@ -36,7 +36,7 @@ Liste des commandes git
 ## git pull
 - permet de precupperer les modification distante 
 
-## git pull
+## git rebase
 - permet de recuperer les modification de la branche mere 
 - les modification de la branche mere sont placer en dessous des modification de la branche courante 
 -les modification de la branche courante  sont placer en dessus des modification de la branche mere 
