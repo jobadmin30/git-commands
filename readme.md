@@ -21,3 +21,6 @@ Permet de pousser les modifications en ligne
 
 ## git log
 - Permet de lister les modification en locale
+
+## git log --oneline
+- affiche l’historique des commits en version courte
