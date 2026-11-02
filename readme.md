@@ -32,3 +32,7 @@ Liste des commandes git
 - permet de passer d'une branche a une autre
 - de switcher entre les branche
 - avec l'option -b vas cree la branche si elle n'existe pas 
+
+## git pull
+- permet de precupperer les modification distante 
+ 
